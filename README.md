@@ -1,2 +1,2 @@
 # shipping
-Grupo da TI34 para projeto integrador Web
+Repositório da TI34 para projeto integrador Web
